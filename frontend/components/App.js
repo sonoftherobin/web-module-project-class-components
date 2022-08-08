@@ -4,7 +4,7 @@ export default class App extends React.Component {
   render() {
     return (
       <div>
-        Todo App
+        Todo App getting started
       </div>
     )
   }
